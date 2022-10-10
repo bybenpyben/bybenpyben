@@ -25,3 +25,31 @@
 <div align="center">
   <img src="https://media.giphy.com/media/cCey0uDZ6Y09O/giphy.gif" width="600" height="300"/>
 </div>
+
+### :rooster:	 About Me :
+Я vortrusov228 <img src="https://media.giphy.com/media/AbGLZKOwwpIYg/giphy.gif" width="50"> from Moscow.
+- :no_bicycles:	я подхватываю приколы на ходу
+
+- :thumbsdown: я не играю в геншин импакт
+
+- :shower:	 я умею только прикалываться 
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="linux" width="40" height="40"/>&nbsp;
+</div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?bybenpyben&theme=dark&background=000000)](https://git.io/streak-stats) 
+
+
+
+
+
+
+
+
